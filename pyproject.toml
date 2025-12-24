@@ -1,0 +1,11 @@
+[build]
+packages = ["backend"]
+
+[backend]
+requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ppt-redesign-app"
+version = "1.0.0"
+description = "PPT AI 重新設計工具 - 一鍵改風格"

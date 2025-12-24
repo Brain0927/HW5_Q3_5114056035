@@ -1,0 +1,45 @@
+# Streamlit
+.streamlit/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PPT 臨時檔案
+~$*.pptx
+*.tmp
+
+# 日誌
+*.log
+logs/
+
+# 緩存
+.cache/
+*.cache
+
+# 環境變數
+.env
+.env.local
+
+# 臨時檔案
+temp/
+tmp/
+*.bak
