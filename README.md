@@ -20,7 +20,7 @@ cd HW5_Q3_5114056035-master
 pip install -r requirements.txt
 
 # 3. 運行應用
-streamlit run streamlit_app.py
+streamlit run Q3_streamlit_app.py
 ```
 
 應用將在 http://localhost:8501 啟動
@@ -174,7 +174,7 @@ HW5_Q3_5114056035-master/
 pip install -r requirements.txt
 
 # 運行應用
-streamlit run streamlit_app.py
+streamlit run Q3_streamlit_app.py
 
 # 應用在 http://localhost:8501 啟動
 ```
